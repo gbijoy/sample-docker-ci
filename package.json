@@ -1,0 +1,19 @@
+{
+  "name": "sample-docker-ci",
+  "version": "1.0.0",
+  "description": "sample-docker-ci\r This is a read me file",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gbijoy/sample-docker-ci.git"
+  },
+  "author": "Bijoy G",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gbijoy/sample-docker-ci/issues"
+  },
+  "homepage": "https://github.com/gbijoy/sample-docker-ci#readme"
+}
